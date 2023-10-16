@@ -7,8 +7,9 @@ I am a novice tester with ISTQB FL certification 📄
 
 
 
-  🔨JUnit                                       💬Jira 
+  ⚡JMeter                                      💬Jira 
 
+Seeking opportunities to exhibit programming skills and analytical mindset in a professional manner 💻💼
 </pre>
 <!--
 **anowacki10/anowacki10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
