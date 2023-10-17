@@ -1,18 +1,18 @@
 # Welcome to my profile 👋
- ▪️ [Bug report TestRail & Jira integration](https://streamable.com/7ou22f) 
 <pre>
 I am a novice tester with ISTQB FL certification 📄
+ 
 -🌱 Continuously learning of QA tools and issues:
 
   👾Selenium WebDriver                          🔎Postman
 
 
-
   ⚡JMeter                                      💬Jira & TestRail
                                                   
 - 💻 Programming languages I use:
- - JAVA
+ - Java
  - SQL 
+ - Python
 
 Seeking opportunities to exhibit programming skills and analytical mindset in a professional manner 💻💼
 </pre>
