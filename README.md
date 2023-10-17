@@ -1,4 +1,5 @@
 # Welcome to my profile 👋
+[Bug report TestRail & Jira integration](https://streamable.com/7ou22f)
 <pre>
 I am a novice tester with ISTQB FL certification 📄
 -🌱 Continuously learning of QA tools and issues:
@@ -9,7 +10,6 @@ I am a novice tester with ISTQB FL certification 📄
 
   ⚡JMeter                                      💬Jira & TestRail
                                                   
-
   
 Seeking opportunities to exhibit programming skills and analytical mindset in a professional manner 💻💼
 </pre>
