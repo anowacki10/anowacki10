@@ -8,7 +8,9 @@ I am a novice tester with ISTQB FL certification 📄
 
 
   ⚡JMeter                                      💬Jira & TestRail
+                                                  - [Bug report TestRail & Jira integration](https://streamable.com/7ou22f)
 
+  
 Seeking opportunities to exhibit programming skills and analytical mindset in a professional manner 💻💼
 </pre>
 <!--
