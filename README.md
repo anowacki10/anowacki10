@@ -7,7 +7,7 @@ I am a novice tester with ISTQB FL certification 📄
 
 
 
-  ⚡JMeter                                      💬Jira 
+  ⚡JMeter                                      💬Jira & TestRail
 
 Seeking opportunities to exhibit programming skills and analytical mindset in a professional manner 💻💼
 </pre>
