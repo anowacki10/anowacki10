@@ -10,7 +10,10 @@ I am a novice tester with ISTQB FL certification 📄
 
   ⚡JMeter                                      💬Jira & TestRail
                                                   
-  
+- 💻 Programming languages i using:
+ - JAVA
+ - SQL 
+
 Seeking opportunities to exhibit programming skills and analytical mindset in a professional manner 💻💼
 </pre>
 <!--
