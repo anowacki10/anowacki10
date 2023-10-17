@@ -1,4 +1,4 @@
-# Welcome to my profile 👋
+### Welcome to my profile 👋 
 <pre>
 I am a novice tester with ISTQB FL certification 📄
  
@@ -16,6 +16,8 @@ I am a novice tester with ISTQB FL certification 📄
 
 Seeking opportunities to exhibit programming skills and analytical mindset in a professional manner 💻💼
 </pre>
+
+#### ⚠️ Check pinned repositories below to learn more...
 <!--
 **anowacki10/anowacki10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
