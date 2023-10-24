@@ -5,10 +5,10 @@ I am a novice tester with ISTQB FL certification 📄
 -🌱 Continuously learning of QA tools and issues:
 
   👾Selenium WebDriver [POM]                    🔎Postman
-
+     <i>pinned</i>                                        <i>pinned</i>
 
   ⚡JMeter                                      💬Jira & TestRail
-                                                  
+                                                   <i>pinned</i>
 - 💻 Programming languages I use:
  - Java
  - SQL 
