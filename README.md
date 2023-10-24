@@ -5,18 +5,19 @@ I am a novice tester with ISTQB FL certification 📄
 -🌱 Continuously learning of QA tools and issues:
 
   👾Selenium WebDriver [POM]                    🔎Postman
-     <i>pinned</i>                                        <i>pinned</i>
+
 
   ⚡JMeter                                      💬Jira & TestRail
-                                                   <i>pinned</i>
-- 💻 Programming languages I use:
+                                                
+
+ - 💻 Programming languages I use:
  - Java
  - SQL 
  
 Seeking opportunities to exhibit programming skills and analytical mindset in a professional manner 💻💼
 </pre>
 
-#### ⚠️ Check pinned repositories below to learn more...
+### ⚠️ Check pinned repositories below to learn more ⚠️
 <!--
 **anowacki10/anowacki10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
