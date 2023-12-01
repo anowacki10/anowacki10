@@ -7,7 +7,7 @@ I am a novice tester with ISTQB FL certification 📄
   👾Selenium WebDriver [POM]                    🔎Postman
 
 
-  ⚡JMeter                                      💬Jira & TestRail
+  ⚡CI/CD                                      💬Jira & TestRail
                                                 
 
  - 💻 Programming languages I use:
