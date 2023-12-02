@@ -13,7 +13,11 @@ I am a novice tester with ISTQB FL certification 📄
  - 💻 Programming languages I use:
  - Java
  - SQL 
- 
+
+ - 📝 Issues tracking & bug reports :
+ - JIRA 
+ - TestRail
+ - Qase
 Seeking opportunities to exhibit programming skills and analytical mindset in a professional manner 💻💼
 </pre>
 
