@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋 
 <pre>
-I am a novice tester with ISTQB FL certification 📄
+ISTQB FL certified  Tester 📄
  
 -🌱 Continuously learning of QA tools and issues:
 
@@ -13,6 +13,7 @@ I am a novice tester with ISTQB FL certification 📄
  - 💻 Programming languages I use:
  - Java
  - SQL 
+ - JavaScript
 
  - 📝 Issues tracking & bug reports :
  - JIRA 
