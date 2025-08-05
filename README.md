@@ -4,25 +4,30 @@ ISTQB FL certified  Tester 📄
  
 -🌱 Continuously learning of QA tools and issues:
 
-  👾Selenium WebDriver [POM]                    🔎Postman
-
+   🎭Playwright                                 👾Cypress               
+ 
+   🔎Postman                                    👾Selenium WebDriver  
 
   ⚡Jmeter                                     🔄 CI/CD
+
+
+  
                                                 
 
  - 💻 Programming languages I use:
- - Java
+ - JavaScript/TypeScript
+ - Groovy / Bash / Powershell
  - SQL 
- - JavaScript
+ - Java for Selenium 
 
  - 📝 Issues tracking & bug reports :
  - JIRA 
+ - Azure DevTools
  - TestRail
  - Qase
 
  
-Seeking opportunities to exhibit programming skills and analytical mindset in a professional manner 💻💼
-</pre>
+
 
 ### ⚠️ Check pinned repositories below to learn more ⚠️
 <!--
