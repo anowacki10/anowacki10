@@ -1,6 +1,6 @@
 ### Welcome to my profile 👋 
 <pre>
-ISTQB FL certified  Tester 📄
+ISTQB certified  Tester 📄
  
 -🌱 Continuously learning of QA tools and issues:
 
@@ -8,7 +8,7 @@ ISTQB FL certified  Tester 📄
  
    🔎Postman                                    👾Selenium WebDriver  
 
-  ⚡Jmeter                                     🔄 CI/CD
+  ⚡Jmeter                                      🔄 CI/CD
 
 
   
